@@ -27,28 +27,38 @@ Yamato OKAMOTO (岡本大和)
 - [AIカンパニー内に新たに設置された「Computer Vision Lab」が目指す未来](https://engineering.linecorp.com/ja/interview/cvl-future/)
 
 
+# Publications
+- 平均画像に対するVAE異常検知の適⽤による道路落下物検出: 山本健生,橋本敦史,岡本大和, 2021年度人工知能学会全国大会（第35回）, 2021/06/08
+([site](https://www.omron.com/jp/ja/technology/omrontechnics/2020/20200925-yamamoto.html)) 
+- 画像合成による物体検出モデルの効率的な環境適応技術: 山本健生,平井佐和,濱走秀人,岡本大和, 2020/09/25 
+([site](https://www.omron.com/jp/ja/technology/omrontechnics/2020/20200925-yamamoto.html)) 
+([paper](https://www.omron.com/jp/ja/technology/omrontechnics/2020/OMT_Vol53_001JP.pdf))
+- ドメイン汎化モデルにおける分布外検知: 広橋佑紀,岡本大和,武良盛太郎(オムロン),橋本敦史,米谷竜,牛久祥孝(OSX), 第23回 画像の認識・理解シンポジウム, 2020/08/03
+
+
+
 # Reading in circles
 
-- 第１１回　全日本コンピュータビジョン勉強会(後編) "A Self-Supervised Descriptor for Image Copy Detection" 2022/08/21
+- 第１１回　全日本コンピュータビジョン勉強会(後編), "A Self-Supervised Descriptor for Image Copy Detection", 2022/08/21
 ([connpass](https://kantocv.connpass.com/event/253626/))
 ([slide](https://speakerdeck.com/roadroller/di-11hui-quan-ri-ben-konpiyutabiziyonmian-qiang-hui-cvpr2022-a-self-supervised-descriptor-for-image-copy-detection))
 ([movie](https://youtu.be/rQruXnr6ZFQ?t=16714))
 ([paper](https://openaccess.thecvf.com/content/CVPR2022/html/Pizzi_A_Self-Supervised_Descriptor_for_Image_Copy_Detection_CVPR_2022_paper.html))
-- 第９回　全日本コンピュータビジョン勉強会 "DocFormer: End-to-End Transformer for Document Understanding" 2021/12/12
+- 第９回　全日本コンピュータビジョン勉強会, "DocFormer: End-to-End Transformer for Document Understanding", 2021/12/12
 ([connpass](https://kantocv.connpass.com/event/228283/))
 ([slide](https://speakerdeck.com/roadroller/di-9hui-quan-ri-ben-konpiyutabiziyonmian-qiang-hui-fa-biao-zi-liao))
 ([movie](https://youtu.be/VlG-Q0QAvLg?t=13924))
 ([paper](https://arxiv.org/abs/2106.11539))
-- 第7回　全日本コンピュータビジョン勉強会(後編) "A Multiplexed Network for End-to-End, Multilingual OCR" 2021/07/31
+- 第7回　全日本コンピュータビジョン勉強会(後編), "A Multiplexed Network for End-to-End, Multilingual OCR", 2021/07/31
 ([connpass](https://kantocv.connpass.com/event/216703/))
 ([slide](https://speakerdeck.com/roadroller/di-qi-hui-quan-ri-ben-konpiyutabiziyonmian-qiang-hui-a-multiplexed-network-for-end-to-end-multilingual-ocr))
 ([movie](https://youtu.be/j1lSMoEXh0o?t=1127))
 ([paper](https://openaccess.thecvf.com/content/CVPR2021/html/Huang_A_Multiplexed_Network_for_End-to-End_Multilingual_OCR_CVPR_2021_paper.html))
-- ICLR2020オンライン読み会 "Deep Semi-Supervised Anomaly Detection" 2020/06/14
+- ICLR2020オンライン読み会, "Deep Semi-Supervised Anomaly Detection", 2020/06/14
 ([connpass](https://exawizards.connpass.com/event/176947/))
 ([slide](https://speakerdeck.com/roadroller/iclr2020deepsemi-supervisedanomalydetectionyamatookamoto-200531022507))
 ([paper](https://arxiv.org/abs/1906.02694))
-- NeurIPS 2019 読み会 in 京都 "Domain Generalization via Model-Agnostic Learning of Semantic Features" 2020/02/11
+- NeurIPS 2019 読み会 in 京都, "Domain Generalization via Model-Agnostic Learning of Semantic Features", 2020/02/11
 ([connpass](https://connpass.com/event/159096/))
 ([slide](https://speakerdeck.com/roadroller/domain-generalization-via-model-agnostic-learning-of-semantic-features-neurips-19-du-mihui-in-jing-du))
 ([paper](https://arxiv.org/abs/1910.13580))
