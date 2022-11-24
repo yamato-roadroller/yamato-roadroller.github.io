@@ -1,6 +1,8 @@
 # Profile
 Yamato OKAMOTO (岡本大和)
 
+<img width="240" alt="アイコン金_02" src="https://user-images.githubusercontent.com/30743886/203785443-7134a816-f0bd-448d-8b4b-520c98f35ce4.png"> <img width="240" alt="image" src="https://user-images.githubusercontent.com/30743886/203786202-73a94a84-3fc4-41fe-a83e-0f2b25478db8.png">
+
 # Career
 - 2007.4 - 2011.3 : Kyoto University, Informatics and Mathematical Science
 - 2011.4 - 2013.3 : Graduate School of Informatics, Kyoto University (Master Course)
@@ -24,9 +26,33 @@ Yamato OKAMOTO (岡本大和)
 ### LINE Engineering Interview
 - [AIカンパニー内に新たに設置された「Computer Vision Lab」が目指す未来](https://engineering.linecorp.com/ja/interview/cvl-future/)
 
-# Reading in circles, Lecture
 
-- 第１１回　全日本コンピュータビジョン勉強会(後編) 
+# Reading in circles
+
+- 第１１回　全日本コンピュータビジョン勉強会(後編) "A Self-Supervised Descriptor for Image Copy Detection" 2022/08/21
 ([connpass](https://kantocv.connpass.com/event/253626/))
 ([slide](https://speakerdeck.com/roadroller/di-11hui-quan-ri-ben-konpiyutabiziyonmian-qiang-hui-cvpr2022-a-self-supervised-descriptor-for-image-copy-detection))
 ([movie](https://youtu.be/rQruXnr6ZFQ?t=16714))
+([paper](https://openaccess.thecvf.com/content/CVPR2022/html/Pizzi_A_Self-Supervised_Descriptor_for_Image_Copy_Detection_CVPR_2022_paper.html))
+- 第９回　全日本コンピュータビジョン勉強会 "DocFormer: End-to-End Transformer for Document Understanding" 2021/12/12
+([connpass](https://kantocv.connpass.com/event/228283/))
+([slide](https://speakerdeck.com/roadroller/di-9hui-quan-ri-ben-konpiyutabiziyonmian-qiang-hui-fa-biao-zi-liao))
+([movie](https://youtu.be/VlG-Q0QAvLg?t=13924))
+([paper](https://arxiv.org/abs/2106.11539))
+- 第7回　全日本コンピュータビジョン勉強会(後編) "A Multiplexed Network for End-to-End, Multilingual OCR" 2021/07/31
+([connpass](https://kantocv.connpass.com/event/216703/))
+([slide](https://speakerdeck.com/roadroller/di-qi-hui-quan-ri-ben-konpiyutabiziyonmian-qiang-hui-a-multiplexed-network-for-end-to-end-multilingual-ocr))
+([movie](https://youtu.be/j1lSMoEXh0o?t=1127))
+([paper](https://openaccess.thecvf.com/content/CVPR2021/html/Huang_A_Multiplexed_Network_for_End-to-End_Multilingual_OCR_CVPR_2021_paper.html))
+- ICLR2020オンライン読み会 "Deep Semi-Supervised Anomaly Detection" 2020/06/14
+([connpass](https://exawizards.connpass.com/event/176947/))
+([slide](https://speakerdeck.com/roadroller/iclr2020deepsemi-supervisedanomalydetectionyamatookamoto-200531022507))
+([paper](https://arxiv.org/abs/1906.02694))
+- NeurIPS 2019 読み会 in 京都 "Domain Generalization via Model-Agnostic Learning of Semantic Features" 2020/02/11
+([connpass](https://connpass.com/event/159096/))
+([slide](https://speakerdeck.com/roadroller/domain-generalization-via-model-agnostic-learning-of-semantic-features-neurips-19-du-mihui-in-jing-du))
+([paper](https://arxiv.org/abs/1910.13580))
+
+# Lecture
+
+- Deep Learning における Skip Connection の研究まとめ ([link](https://www.slideshare.net/yamatookamoto5/skip-connection-neural-network))
