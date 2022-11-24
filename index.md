@@ -17,14 +17,15 @@ Yamato OKAMOTO (岡本大和)
 ### Tech-Verse 2022
 - [コンピュータービジョン最前線 - サービス応用の現在とその可能性](https://tech-verse.me/ja/sessions/305)
 
+### LINE Engineering Interview
+- [AIカンパニー内に新たに設置された「Computer Vision Lab」が目指す未来](https://engineering.linecorp.com/ja/interview/cvl-future/) 2021/12/22
+
 ### LINE DEVELOPER DAY 2021
 - [LINEのコンピュータビジョン研究-その現状と将来](https://linedevday.linecorp.com/2021/ja/sessions/52/)
 - [「あれば便利」を超えて「ないのは考えられない」までの利便性 LINEのコンピュータビジョン研究が目指すもの](https://logmi.jp/tech/articles/325463)
 - [![youtube](http://img.youtube.com/vi/D45wIMN6R_I/0.jpg)](https://www.youtube.com/watch?v=D45wIMN6R_I)
 
 
-### LINE Engineering Interview
-- [AIカンパニー内に新たに設置された「Computer Vision Lab」が目指す未来](https://engineering.linecorp.com/ja/interview/cvl-future/)
 
 
 # Publications
