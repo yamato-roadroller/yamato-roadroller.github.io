@@ -67,3 +67,10 @@ Yamato OKAMOTO (岡本大和)
 # Lecture
 
 - Deep Learning における Skip Connection の研究まとめ ([link](https://www.slideshare.net/yamatookamoto5/skip-connection-neural-network))
+
+# Social Activities
+
+- cvpaper.challenge: survey member 
+([CVPR2022](http://xpaperchallenge.org/cv/survey/cvpr2022_summaries/listall/))
+([CVPR2021](http://xpaperchallenge.org/cv/survey/cvpr2021_summaries/listall/))
+([CVPR2020](https://xpaperchallenge.org/cv/survey/cvpr2020_summaries/listall/))
