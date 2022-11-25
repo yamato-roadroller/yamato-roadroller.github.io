@@ -38,7 +38,7 @@ Yamato OKAMOTO (岡本大和)
 
 
 
-# Reading in circles
+# Reading circl
 
 - 第１１回　全日本コンピュータビジョン勉強会(後編), "A Self-Supervised Descriptor for Image Copy Detection", 2022/08/21
 ([connpass](https://kantocv.connpass.com/event/253626/))
