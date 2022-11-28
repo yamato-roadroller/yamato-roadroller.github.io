@@ -1,1 +1,1 @@
-# yamato-roadroller.github.io
+# Yamato.OKAMOTO（岡本大和） Kyoto, JAPAN
