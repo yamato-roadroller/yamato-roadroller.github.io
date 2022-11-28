@@ -1,5 +1,5 @@
 # Profile
-Yamato OKAMOTO (岡本大和)
+### Yamato OKAMOTO (岡本大和)  Kyoto, JAPAN  
 [Twitter](https://twitter.com/RoadRoller_DESU)
 
 <img width="240" alt="アイコン金_02" src="https://user-images.githubusercontent.com/30743886/203785443-7134a816-f0bd-448d-8b4b-520c98f35ce4.png"> <img width="240" alt="image" src="https://user-images.githubusercontent.com/30743886/203786202-73a94a84-3fc4-41fe-a83e-0f2b25478db8.png">
