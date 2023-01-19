@@ -11,7 +11,7 @@
 - 2016.4 - 2018.3 : OMRON SOCIAL SOLUTIONS, Researcher
 - 2018.4 - 2020.3 : OMRON corp, Bussines Developer
 - 2020.3 - 2021.6 : OMRON SOCIAL SOLUTIONS, research department　assistant manager
-- 2021.7 - Current: LINE corp. comuputer vision lab team, AI Dev Kyoto Team
+- 2021.7 - Current: LINE corp. computer vision lab team, AI Dev Kyoto Team
 
 # Media Exposure
 
