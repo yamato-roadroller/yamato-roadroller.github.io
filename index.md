@@ -34,12 +34,15 @@
 - [国立国会図書館が保有するデジタル化資料　247万点・2億2300万枚超の全文テキストデータ化に「CLOVA OCR」が採用](https://linecorp.com/ja/pr/news/ja/2021/3825)
 - [非集中学習技術「Decentralized X」](https://www.omron.com/jp/ja/technology/information/brand/dcx/)
 - [GAFA対抗のAI技術となるか、複数の機械学習モデルから統合モデル 日経xTECH／日経エレクトロニクス](https://xtech.nikkei.com/atcl/nxt/column/18/00001/03187/)
+- [オムロンがなぜセンシングデータの流通市場構築に動くのか](https://monoist.itmedia.co.jp/mn/articles/1610/26/news050.html)
+- [オムロン ソーシアルソリューションズ 「リテールテックJAPAN 2017」に出展 安心・安全・快適な社会づくりに貢献する](https://www.omron.com/jp/ja/news/2017/03/c0301.html)
 
 
 
 # Publications
 - 平均画像に対するVAE異常検知の適⽤による道路落下物検出: 山本健生,橋本敦史,岡本大和, 2021年度人工知能学会全国大会（第35回）, 2021/06/08
 ([site](https://www.omron.com/jp/ja/technology/omrontechnics/2020/20200925-yamamoto.html)) 
+- テスト環境に対する知識制約を考慮したドメイン適応戦略: 武良盛太郎,広橋佑紀,岡本大和,橋本敦史 CVIM, 2021/03/04
 - 画像合成による物体検出モデルの効率的な環境適応技術: 山本健生,平井佐和,濱走秀人,岡本大和, 2020/09/25 
 ([site](https://www.omron.com/jp/ja/technology/omrontechnics/2020/20200925-yamamoto.html)) 
 ([paper](https://www.omron.com/jp/ja/technology/omrontechnics/2020/OMT_Vol53_001JP.pdf))
