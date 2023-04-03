@@ -30,6 +30,13 @@
 [![youtube](http://img.youtube.com/vi/D45wIMN6R_I/1.jpg)](https://www.youtube.com/watch?v=D45wIMN6R_I)
 
 
+# Project Experience with News Coverage
+- [国立国会図書館が保有するデジタル化資料　247万点・2億2300万枚超の全文テキストデータ化に「CLOVA OCR」が採用](https://linecorp.com/ja/pr/news/ja/2021/3825)
+- [非集中学習技術「Decentralized X」](https://www.omron.com/jp/ja/technology/information/brand/dcx/)
+- [GAFA対抗のAI技術となるか、複数の機械学習モデルから統合モデル 日経xTECH／日経エレクトロニクス](https://xtech.nikkei.com/atcl/nxt/column/18/00001/03187/)
+
+
+
 # Publications
 - 平均画像に対するVAE異常検知の適⽤による道路落下物検出: 山本健生,橋本敦史,岡本大和, 2021年度人工知能学会全国大会（第35回）, 2021/06/08
 ([site](https://www.omron.com/jp/ja/technology/omrontechnics/2020/20200925-yamamoto.html)) 
