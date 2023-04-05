@@ -40,14 +40,16 @@
 
 
 # Publications
+- Efficient Scene Adaptation Technology for Object Detection Using Auto Image Synthesis: 山本健生,平井佐和,濱走秀人,岡本大和, 画像ラボ  (Image Laboratory)
+巻：33 号：11 ページ：23-30, 2022/11/10 
 - 平均画像に対するVAE異常検知の適⽤による道路落下物検出: 山本健生,橋本敦史,岡本大和, 2021年度人工知能学会全国大会（第35回）, 2021/06/08
 ([site](https://www.omron.com/jp/ja/technology/omrontechnics/2020/20200925-yamamoto.html)) 
 - テスト環境に対する知識制約を考慮したドメイン適応戦略: 武良盛太郎,広橋佑紀,岡本大和,橋本敦史 CVIM, 2021/03/04
-- 画像合成による物体検出モデルの効率的な環境適応技術: 山本健生,平井佐和,濱走秀人,岡本大和, 2020/09/25 
+- 画像合成による物体検出モデルの効率的な環境適応技術: 山本健生,平井佐和,濱走秀人,岡本大和, Omron Technics, 2020/09/25 
 ([site](https://www.omron.com/jp/ja/technology/omrontechnics/2020/20200925-yamamoto.html)) 
 ([paper](https://www.omron.com/jp/ja/technology/omrontechnics/2020/OMT_Vol53_001JP.pdf))
 - ドメイン汎化モデルにおける分布外検知: 広橋佑紀,岡本大和,武良盛太郎(オムロン),橋本敦史,米谷竜,牛久祥孝(OSX), 第23回 画像の認識・理解シンポジウム, 2020/08/03
-- 『センシングデータ流通市場』での新たなセンシング技術: 内藤丈嗣,岡本大和,森口誠,小田利彦, センシング技術応用セミナー・テキスト, 51,53-57, 2018)
+- 『センシングデータ流通市場』での新たなセンシング技術: 内藤丈嗣,岡本大和,森口誠,小田利彦, センシング技術応用セミナー・テキスト, 51,53-57, 2018
 
 # Reading circle
 
