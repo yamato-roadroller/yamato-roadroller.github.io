@@ -47,8 +47,7 @@
 ([site](https://www.omron.com/jp/ja/technology/omrontechnics/2020/20200925-yamamoto.html)) 
 ([paper](https://www.omron.com/jp/ja/technology/omrontechnics/2020/OMT_Vol53_001JP.pdf))
 - ドメイン汎化モデルにおける分布外検知: 広橋佑紀,岡本大和,武良盛太郎(オムロン),橋本敦史,米谷竜,牛久祥孝(OSX), 第23回 画像の認識・理解シンポジウム, 2020/08/03
-
-
+- 『センシングデータ流通市場』での新たなセンシング技術: 内藤丈嗣,岡本大和,森口誠,小田利彦, センシング技術応用セミナー・テキスト, 51,53-57, 2018)
 
 # Reading circle
 
