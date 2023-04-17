@@ -40,6 +40,7 @@
 
 
 # Publications
+- Free Donut: E2E文書理解モデルにおけるAttentionを用いた文字領域アノテーション不要なテキスト検出手法の提案: 横尾修平 (LINE), Geewook Kim (NAVER), Sukmin Seo (NAVER Cloud), 長内淳樹, 岡本大和 (LINE), Youngmin Baek (NAVER Cloud), 言語処理学会 第29回年次大会 発表論文集 ([pdf](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B7-4.pdf))
 - Efficient Scene Adaptation Technology for Object Detection Using Auto Image Synthesis: 山本健生,平井佐和,濱走秀人,岡本大和, 画像ラボ  (Image Laboratory)
 巻：33 号：11 ページ：23-30, 2022/11/10 
 - 平均画像に対するVAE異常検知の適⽤による道路落下物検出: 山本健生,橋本敦史,岡本大和, 2021年度人工知能学会全国大会（第35回）, 2021/06/08
