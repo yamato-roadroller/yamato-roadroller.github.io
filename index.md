@@ -40,6 +40,7 @@
 
 
 # Publications
+- 書類偽装検出モデルの実現に向けた画像生成と学習方法の提案: 八尋 一宇1、長谷川 麟太郎2、岡本 大和3、長田 元気3、朱 佩菲3、片岡 裕雄3 (1. 東京大学、2. 慶應義塾大学、3. LINE株式会社), SSII2023[IS3-29], ([site](https://confit.atlas.jp/guide/event/ssii2023/subject/IS3-29/category?cryptoId=)), 2023/06/16
 - Free Donut: E2E文書理解モデルにおけるAttentionを用いた文字領域アノテーション不要なテキスト検出手法の提案: 横尾修平 (LINE), Geewook Kim (NAVER), Sukmin Seo (NAVER Cloud), 長内淳樹, 岡本大和 (LINE), Youngmin Baek (NAVER Cloud), 言語処理学会 第29回年次大会 発表論文集 ([pdf](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/B7-4.pdf))
 - Efficient Scene Adaptation Technology for Object Detection Using Auto Image Synthesis: 山本健生,平井佐和,濱走秀人,岡本大和, 画像ラボ  (Image Laboratory)
 巻：33 号：11 ページ：23-30, 2022/11/10 
