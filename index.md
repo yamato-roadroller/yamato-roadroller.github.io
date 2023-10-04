@@ -41,6 +41,8 @@
 
 
 # Publications
+- Constructing Image-Text Pair Dataset from Books: Yamato Okamoto (NAVER Cloud Corp., WORKS MOBILE JAPAN Corp.), Haruto Toyonaga (Doshisha Univ.), Hirokatsu Kataoka, Yoshihisa Ijiri (LINE)， ICCV 2023 workshop, Towards the Next Generation of Computer Vision Datasets: General DataCentric Submission Track, 2023/10 ([arXiv](https://arxiv.org/abs/2310.01936), <a href="bib/okamoto2023constructing.bib">BibTeX</a>
+)
 - On Text Localization in End-to-End OCR-Free Document Understanding Transformer without Text Localization Supervision
 AUTHORS: Geewook Kim, Shuhei Yokoo, Sukmin Seo, Atsuki Osanai, Yamato Okamoto and Youngmin Baek, 10th International Workshop on Camera-Based Document Analysis and Recognition (CBDAR2023), 2023/08
 - Constructing Image-Text Pair Dataset from Books: Yamato Okamoto (LINE), Haruto Toyonaga (Doshisha Univ.), Hirokatsu Kataoka, Yoshihisa Ijiri (LINE)， 画像の認識・理解シンポジウム MIRU2023, 2023/07
