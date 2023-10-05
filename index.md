@@ -13,6 +13,7 @@
 - 2020.3 - 2021.6 : OMRON SOCIAL SOLUTIONS, research department　assistant manager
 - 2021.7 - 2023.3 : LINE corp. computer vision lab team, AI Dev Kyoto Team
 - 2023.4 - Current: WORKS MOBILE Japan Corp. CLOVA
+- 2023.9 - Current: NAVER Cloud Corp. (concurrently)
 
 # Media Exposure
 
