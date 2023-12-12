@@ -4,6 +4,7 @@
 
 <img width="240" alt="アイコン金_02" src="https://user-images.githubusercontent.com/30743886/203785443-7134a816-f0bd-448d-8b4b-520c98f35ce4.png"> <img width="240" alt="image" src="https://user-images.githubusercontent.com/30743886/203786202-73a94a84-3fc4-41fe-a83e-0f2b25478db8.png">
 
+
 # Career
 - 2007.4 - 2011.3 : Kyoto University, Informatics and Mathematical Science
 - 2011.4 - 2013.3 : Graduate School of Informatics, Kyoto University (Master Course)
@@ -42,6 +43,10 @@
 
 
 # Publications
+
+<img width="320" alt="Docment Forgery Detectionimage" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/d9823519-4305-4ec2-aa48-ed286bd74eac">　　　<img width="400" alt="Constructing Image–Text Pair Dataset from Books" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/8914f872-499c-4197-9c27-e6cf87fcef8d">
+
+- Image Generation and Learning Strategy for Deep Document Forgery Detection: Yamato Okamoto (NAVER Cloud Corp., WORKS MOBILE JAPAN Corp.), Osada Genki (LY Corporation), Iu Yahiro (The University of Tokyo), Rintaro Hasegawa (Keio University), Peifei Zhu, Hirokatsu Kataoka (LY Corporation). 2023/11 [arXiv](https://arxiv.org/abs/2311.03650)  
 - Constructing Image-Text Pair Dataset from Books: Yamato Okamoto (NAVER Cloud Corp., WORKS MOBILE JAPAN Corp.), Haruto Toyonaga (Doshisha Univ.), Hirokatsu Kataoka, Yoshihisa Ijiri (LINE)， ICCV 2023 workshop, Towards the Next Generation of Computer Vision Datasets: General DataCentric Submission Track, 2023/10 ([arXiv](https://arxiv.org/abs/2310.01936), <a href="bib/okamoto2023constructing.bib">BibTeX</a>
 )
 - On Text Localization in End-to-End OCR-Free Document Understanding Transformer without Text Localization Supervision
@@ -104,6 +109,7 @@ AUTHORS: Geewook Kim, Shuhei Yokoo, Sukmin Seo, Atsuki Osanai, Yamato Okamoto an
 
 # Social Activities
 
+- Special Lecture at Kyoto Municipal Ritsuryo Junior High School (2023/11)
 - cvpaper.challenge: survey member 
 ([CVPR2022](http://xpaperchallenge.org/cv/survey/cvpr2022_summaries/listall/))
 ([CVPR2021](http://xpaperchallenge.org/cv/survey/cvpr2021_summaries/listall/))
