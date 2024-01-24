@@ -46,13 +46,13 @@
 
 <img width="320" alt="Docment Forgery Detectionimage" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/d9823519-4305-4ec2-aa48-ed286bd74eac">　　　<img width="400" alt="Constructing Image–Text Pair Dataset from Books" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/8914f872-499c-4197-9c27-e6cf87fcef8d">
 
-## Peer-Reviewed Publications
+### Peer-Reviewed Publications
 - Constructing Image-Text Pair Dataset from Books: Yamato Okamoto (NAVER Cloud Corp., WORKS MOBILE JAPAN Corp.), Haruto Toyonaga (Doshisha Univ.), Hirokatsu Kataoka, Yoshihisa Ijiri (LINE)， ICCV 2023 workshop, Towards the Next Generation of Computer Vision Datasets: General DataCentric Submission Track, 2023/10 ([arXiv](https://arxiv.org/abs/2310.01936), <a href="bib/okamoto2023constructing.bib">BibTeX</a>
 )
 - On Text Localization in End-to-End OCR-Free Document Understanding Transformer without Text Localization Supervision
 AUTHORS: Geewook Kim, Shuhei Yokoo, Sukmin Seo, Atsuki Osanai, Yamato Okamoto and Youngmin Baek, 10th International Workshop on Camera-Based Document Analysis and Recognition (CBDAR2023), 2023/08
 
-## Non-Peer-Reviewed Publications
+### Non-Peer-Reviewed Publications
 - Image Generation and Learning Strategy for Deep Document Forgery Detection: Yamato Okamoto (NAVER Cloud Corp., WORKS MOBILE JAPAN Corp.), Osada Genki (LY Corporation), Iu Yahiro (The University of Tokyo), Rintaro Hasegawa (Keio University), Peifei Zhu, Hirokatsu Kataoka (LY Corporation). 2023/11 [arXiv](https://arxiv.org/abs/2311.03650)  
 - Constructing Image-Text Pair Dataset from Books: Yamato Okamoto (LINE), Haruto Toyonaga (Doshisha Univ.), Hirokatsu Kataoka, Yoshihisa Ijiri (LINE)， 画像の認識・理解シンポジウム MIRU2023, 2023/07
 - A comprehensive analysis of video copy detection in short video-sharing service: Rintaro Yanagi (Hokkaido Univ.), Yamato Okamoto, Shuhei Yokoo (LINE), Shin’ichi Satoh (NII)， 画像の認識・理解シンポジウム MIRU2023, 2023/07
