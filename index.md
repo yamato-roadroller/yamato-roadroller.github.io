@@ -73,21 +73,21 @@ AUTHORS: Geewook Kim, Shuhei Yokoo, Sukmin Seo, Atsuki Osanai, Yamato Okamoto an
 
 
 # Industrial Property Rights
-- Learning apparatus, estimation apparatus, data generation apparatus, learning method, and computer-readable storage medium storing a learning program
+- [Learning apparatus, estimation apparatus, data generation apparatus, learning method, and computer-readable storage medium storing a learning program](https://patents.google.com/patent/US20220139070A1)
 Y Okamoto, A Hashimoto US Patent App. 17/431,455
-- Model generation apparatus, estimation apparatus, model generation method, and computer-readable storage medium storing a model generation program
-R Yonetani, A Hashimoto, Y Okamoto US Patent App. 17/772,161
-- Data generation system, learning apparatus, data generation apparatus, data generation method, and computer-readable storage medium storing a data generation program
+- [Model generation apparatus, estimation apparatus, model generation method, and computer-readable storage medium storing a model generation program](https://patents.google.com/patent/US20230109426A1)
+R Yonetani, A Hashimoto, Y Okamoto US Patent App. 17/772,161; 17/801,813
+- [Data generation system, learning apparatus, data generation apparatus, data generation method, and computer-readable storage medium storing a data generation program](https://patents.google.com/patent/US20220300809A1)
 Y Okamoto, R Yonetani, M Nakata, Y Miyata US Patent App. 17/636,388
-- 渋滞予測装置: 渡邉慎,幡山五郎,岡本大和, 特許第7251048号(P7251048), 2023/3/27
-- メタデータ評価装置、メタデータ評価方法、およびメタデータ評価プログラム: 岡本大和,幡山五郎,張海虹,内藤丈嗣,大和哲二, 特許第7143599号(P7143599), 2022/9/20
-- 推奨情報特定装置、推奨情報特定システム、推奨情報特定方法、端末装置、及びプログラム: 野路晴香,岡本大和,幡山五郎,岡部浩史, 特許第7127728号(P7127728), 2022/8/22
-- 推奨情報特定装置、推奨情報特定システム、推奨情報特定方法、及びプログラム: 野路晴香,岡本大和,幡山五郎,岡部浩史, 特許第7115655号(P7115655), 2022/8/1
-- 情報管理装置、制御システム、情報管理方法、および情報管理プログラム: 岡本大和,小暮正道,相原淳良, 特許第7102786号(P7102786), 2022/7/11
-- 車両計数装置、車両計数方法、及び車両計数プログラム: 渡邉慎,萩原祥行,岡本大和,吉野広太郎,小暮正道, 特許第7047486号(P7047486), 2022/3/28
-- 学習装置、推定装置、データ生成装置、学習方法、及び学習プログラム: 岡本大和,橋本敦史, 特許第7003953号(P7003953), 2022/1/6
-- データセット検証装置、データセット検証方法、およびデータセット検証プログラム: 岡本大和,幡山五郎,張海虹,内藤丈嗣,大和哲二, 特許第6973197号(P6973197), 2021/11/8
-
+- [異常検知装置、異常検知方法、および異常検知プログラム](https://patents.google.com/patent/JP2023050456A/ja): 岡本大和,橋本敦史,井尻善久,山本健生
+- [渋滞予測装置](https://patents.google.com/patent/JP2019159831A): 渡邉慎,幡山五郎,岡本大和, 特許第7251048号(P7251048)
+- [メタデータ評価装置、メタデータ評価方法、およびメタデータ評価プログラム](https://patents.google.com/patent/JP2019159539A): 岡本大和,幡山五郎,張海虹,内藤丈嗣,大和哲二, 特許第7143599号(P7143599)
+- [推奨情報特定装置、推奨情報特定システム、推奨情報特定方法、端末装置、及びプログラム](https://patents.google.com/patent/JP2022031901A): 野路晴香,岡本大和,幡山五郎,岡部浩史, 特許第7127728号(P7127728)
+- [推奨情報特定装置、推奨情報特定システム、推奨情報特定方法、及びプログラム](https://patents.google.com/patent/JP2022058960A): 野路晴香,岡本大和,幡山五郎,岡部浩史, 特許第7115655号(P7115655)
+- [情報管理装置、制御システム、情報管理方法、および情報管理プログラム](https://patents.google.com/patent/JP2019153149A): 岡本大和,小暮正道,相原淳良, 特許第7102786号(P7102786)
+- [車両計数装置、車両計数方法、及び車両計数プログラム](https://patents.google.com/patent/JP2019159648A): 渡邉慎,萩原祥行,岡本大和,吉野広太郎,小暮正道, 特許第7047486号(P7047486)
+- [学習装置、推定装置、データ生成装置、学習方法、及び学習プログラム](https://patents.google.com/patent/JP2020149504A): 岡本大和,橋本敦史, 特許第7003953号(P7003953)
+- [データセット検証装置、データセット検証方法、およびデータセット検証プログラム](https://patents.google.com/patent/JP2019159538A): 岡本大和,幡山五郎,張海虹,内藤丈嗣,大和哲二, 特許第6973197号(P6973197)
 
 
 # Reading circle
