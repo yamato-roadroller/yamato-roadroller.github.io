@@ -73,6 +73,12 @@ AUTHORS: Geewook Kim, Shuhei Yokoo, Sukmin Seo, Atsuki Osanai, Yamato Okamoto an
 
 
 # Industrial Property Rights
+- Learning apparatus, estimation apparatus, data generation apparatus, learning method, and computer-readable storage medium storing a learning program
+Y Okamoto, A Hashimoto US Patent App. 17/431,455
+- Model generation apparatus, estimation apparatus, model generation method, and computer-readable storage medium storing a model generation program
+R Yonetani, A Hashimoto, Y Okamoto US Patent App. 17/772,161
+- Data generation system, learning apparatus, data generation apparatus, data generation method, and computer-readable storage medium storing a data generation program
+Y Okamoto, R Yonetani, M Nakata, Y Miyata US Patent App. 17/636,388
 - 渋滞予測装置: 渡邉慎,幡山五郎,岡本大和, 特許第7251048号(P7251048), 2023/3/27
 - メタデータ評価装置、メタデータ評価方法、およびメタデータ評価プログラム: 岡本大和,幡山五郎,張海虹,内藤丈嗣,大和哲二, 特許第7143599号(P7143599), 2022/9/20
 - 推奨情報特定装置、推奨情報特定システム、推奨情報特定方法、端末装置、及びプログラム: 野路晴香,岡本大和,幡山五郎,岡部浩史, 特許第7127728号(P7127728), 2022/8/22
