@@ -2,9 +2,7 @@
 ### Yamato OKAMOTO (岡本大和) @Kyoto, JAPAN  
 [Twitter](https://twitter.com/RoadRoller_DESU)
 
-
-
-<img height="240" alt="2024" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/630c1f59-020a-4bd4-8fc8-85ef94875759"> <img height="240" alt="2021" src="https://user-images.githubusercontent.com/30743886/203786202-73a94a84-3fc4-41fe-a83e-0f2b25478db8.png"> <img height="240" alt="2018" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/512ebdc1-45e6-4565-8c2d-26b3bc2ef7f6">
+<img height="240" alt="2024" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/630c1f59-020a-4bd4-8fc8-85ef94875759"> <img height="240" alt="2024" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/0775ca88-bcb8-42b4-8881-4d961f515cf2"> <img height="240" alt="2021" src="https://user-images.githubusercontent.com/30743886/203786202-73a94a84-3fc4-41fe-a83e-0f2b25478db8.png"> <img height="240" alt="2018" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/512ebdc1-45e6-4565-8c2d-26b3bc2ef7f6">
 
 # Career
 - 2007.4 - 2011.3 : Kyoto University, Informatics and Mathematical Science
