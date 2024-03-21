@@ -46,7 +46,8 @@
 
 # Publications
 
-<img width="320" alt="Docment Forgery Detectionimage" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/d9823519-4305-4ec2-aa48-ed286bd74eac">　　　<img width="400" alt="Constructing Image–Text Pair Dataset from Books" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/8914f872-499c-4197-9c27-e6cf87fcef8d">
+<img height="120" alt="Docment Forgery Detectionimage" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/d9823519-4305-4ec2-aa48-ed286bd74eac">　　　<img height="120" alt="Constructing Image–Text Pair Dataset from Books" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/8914f872-499c-4197-9c27-e6cf87fcef8d">[<img height="120" alt="ICCV23" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/d5c7826d-e151-4fdf-be39-5464dd115a6d">
+]([https://speakerdeck.com/path/to/slide](https://speakerdeck.com/roadroller/slide-iccv2023-constructing-image-text-pair-dataset-from-books))
 
 ### Peer-Reviewed Publications
 - Constructing Image-Text Pair Dataset from Books: Yamato Okamoto (NAVER Cloud Corp., WORKS MOBILE JAPAN Corp.), Haruto Toyonaga (Doshisha Univ.), Hirokatsu Kataoka, Yoshihisa Ijiri (LINE)， ICCV 2023 workshop, Towards the Next Generation of Computer Vision Datasets: General DataCentric Submission Track, 2023/10 ([arXiv](https://arxiv.org/abs/2310.01936), <a href="bib/okamoto2023constructing.bib">BibTeX</a>
