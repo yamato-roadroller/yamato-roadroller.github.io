@@ -36,6 +36,7 @@
 
 
 # Project Experience with News Coverage
+- [「CLOVA OCR」、累計読み取り枚数が5億枚、読み取り項目数換算でおよそ40億項目を突破](https://prtimes.jp/main/html/rd/p/000004182.000001594.html)
 - [国立国会図書館が保有するデジタル化資料　247万点・2億2300万枚超の全文テキストデータ化に「CLOVA OCR」が採用](https://linecorp.com/ja/pr/news/ja/2021/3825)
 - [非集中学習技術「Decentralized X」](https://www.omron.com/jp/ja/technology/information/brand/dcx/)
 - [GAFA対抗のAI技術となるか、複数の機械学習モデルから統合モデル 日経xTECH／日経エレクトロニクス](https://xtech.nikkei.com/atcl/nxt/column/18/00001/03187/)
