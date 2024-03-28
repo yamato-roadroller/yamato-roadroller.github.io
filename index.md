@@ -56,6 +56,7 @@
 AUTHORS: Geewook Kim, Shuhei Yokoo, Sukmin Seo, Atsuki Osanai, Yamato Okamoto and Youngmin Baek, 10th International Workshop on Camera-Based Document Analysis and Recognition (CBDAR2023), 2023/08
 
 ### Non-Peer-Reviewed Publications
+- The Effects of Short Video-Sharing Services on Video Copy Detection: Rintaro Yanagi (Hokkaido Univ), Yamato Okamoto (LINE WORKS Corp), Shuhei Yokoo (LY Corporation), Shin'ichi Satoh (National Institute of Informatics). 2024/3 [arXiv](https://arxiv.org/abs/2403.18158)
 - Image Generation and Learning Strategy for Deep Document Forgery Detection: Yamato Okamoto (NAVER Cloud Corp., WORKS MOBILE JAPAN Corp.), Osada Genki (LY Corporation), Iu Yahiro (The University of Tokyo), Rintaro Hasegawa (Keio University), Peifei Zhu, Hirokatsu Kataoka (LY Corporation). 2023/11 [arXiv](https://arxiv.org/abs/2311.03650)  
 - Constructing Image-Text Pair Dataset from Books: Yamato Okamoto (LINE), Haruto Toyonaga (Doshisha Univ.), Hirokatsu Kataoka, Yoshihisa Ijiri (LINE)， 画像の認識・理解シンポジウム MIRU2023, 2023/07
 - A comprehensive analysis of video copy detection in short video-sharing service: Rintaro Yanagi (Hokkaido Univ.), Yamato Okamoto, Shuhei Yokoo (LINE), Shin’ichi Satoh (NII)， 画像の認識・理解シンポジウム MIRU2023, 2023/07
