@@ -15,8 +15,9 @@
 - 2018.4 - 2020.3 : OMRON corp, Bussines Developer
 - 2020.3 - 2021.6 : OMRON SOCIAL SOLUTIONS, research department　assistant manager
 - 2021.7 - 2023.3 : LINE corp. computer vision lab team, AI Dev Kyoto Team
-- 2023.4 - Current: WORKS MOBILE Japan Corp. CLOVA
-- 2023.9 - Current: NAVER Cloud Corp. (concurrently)
+- 2023.4 - 2023.8 : LINE WORKS Corp.
+- 2023.9 - 2024.3 : NAVER Cloud Corp. 
+- 2024.4 - CyberAgent, Inc. (concurrently)
 
 # Media Exposure
 
