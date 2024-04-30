@@ -1,6 +1,6 @@
 # Profile
 ### Yamato OKAMOTO (岡本大和) @Kyoto, JAPAN  
-[Twitter](https://twitter.com/RoadRoller_DESU)
+[note](https://note.com/roadroller_da/) [Twitter](https://twitter.com/RoadRoller_DESU)
 
 <img height="180" alt="2024" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/630c1f59-020a-4bd4-8fc8-85ef94875759"> <img height="180" alt="icon" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/0775ca88-bcb8-42b4-8881-4d961f515cf2"> <img height="180" alt="2021" src="https://user-images.githubusercontent.com/30743886/203786202-73a94a84-3fc4-41fe-a83e-0f2b25478db8.png"> 
 <!-- 
