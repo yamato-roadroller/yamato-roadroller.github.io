@@ -1,0 +1,14 @@
+# Memory bank - private development documentation
+memory-bank/
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
