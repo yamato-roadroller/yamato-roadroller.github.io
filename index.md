@@ -35,8 +35,14 @@
 - [LINEのコンピュータビジョン研究-その現状と将来](https://linedevday.linecorp.com/2021/ja/sessions/52/)
 - [「あれば便利」を超えて「ないのは考えられない」までの利便性 LINEのコンピュータビジョン研究が目指すもの](https://logmi.jp/tech/articles/325463)
 
+### CyberAgentWay
+- [AI研究者が生み出す価値の掛け算　研究成果を最大限に活かす「AI Strategy & Planning」](https://www.cyberagent.co.jp/way/list/detail/id=31208)
+- [偶然を科学する─R&D組織におけるイノベーション活性化を経済学でデザイン─](https://www.cyberagent.co.jp/way/list/detail/id=32140)
+
 
 # Project Experience with News Coverage
+- [AI Lab、複数の遠隔接客アバターを効率的に運用する技術で特許を取得](https://www.cyberagent.co.jp/news/detail/id=31585) 特許第7644944号
+- [AI Lab、AI技術の事業活用と知財戦略を推進する専門組織「AI Strategy & Planning」を設立](https://www.cyberagent.co.jp/news/detail/id=31097)
 - [「CLOVA OCR」、累計読み取り枚数が5億枚、読み取り項目数換算でおよそ40億項目を突破](https://prtimes.jp/main/html/rd/p/000004182.000001594.html)
 - [国立国会図書館が保有するデジタル化資料　247万点・2億2300万枚超の全文テキストデータ化に「CLOVA OCR」が採用](https://linecorp.com/ja/pr/news/ja/2021/3825)
 - [非集中学習技術「Decentralized X」](https://www.omron.com/jp/ja/technology/information/brand/dcx/)
@@ -51,6 +57,7 @@
 <img height="120" alt="Docment Forgery Detectionimage" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/d9823519-4305-4ec2-aa48-ed286bd74eac">　　　<img height="120" alt="Constructing Image–Text Pair Dataset from Books" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/8914f872-499c-4197-9c27-e6cf87fcef8d">[<img height="120" alt="ICCV23" src="https://github.com/yamato-roadroller/yamato-roadroller.github.io/assets/30743886/d5c7826d-e151-4fdf-be39-5464dd115a6d">](https://speakerdeck.com/roadroller/slide-iccv2023-constructing-image-text-pair-dataset-from-books)
 
 ### Peer-Reviewed Publications
+- CREPE: Coordinate-Aware End-to-End Document Parser: Yamato Okamoto, Youngmin Baek, Geewook Kim, Ryota Nakao, DongHyun Kim, Moon Bin Yim, Seunghyun Park, Bado Lee, International Conference on Document Analysis and Recognition (ICDAR), 2024 ([arXiv](https://arxiv.org/abs/2405.00260), <a href="bib/okamoto2024crepe.bib">BibTeX</a>)
 - Constructing Image-Text Pair Dataset from Books: Yamato Okamoto (NAVER Cloud Corp., WORKS MOBILE JAPAN Corp.), Haruto Toyonaga (Doshisha Univ.), Hirokatsu Kataoka, Yoshihisa Ijiri (LINE)， ICCV 2023 workshop, Towards the Next Generation of Computer Vision Datasets: General DataCentric Submission Track, 2023/10 ([arXiv](https://arxiv.org/abs/2310.01936), <a href="bib/okamoto2023constructing.bib">BibTeX</a>
 )
 - On Text Localization in End-to-End OCR-Free Document Understanding Transformer without Text Localization Supervision
@@ -126,6 +133,8 @@ Y Okamoto, R Yonetani, M Nakata, Y Miyata US Patent App. 17/636,388
 
 # Social Activities
 
+- Guest speaker at Ritsumeikan University lecture "Organization and Management - Business Development and Rule Making Thinking" ([link](https://cyberagent.ai/blog/research/20267/))
+- Presentation at the 15th IPSJ Corporate Exchange Meeting ~Net Information Media~ ([link](https://www.ipsj.or.jp/event/sanjo-koryu_15_2025.html?fbclid=IwY2xjawMSFzpleHRuA2FlbQIxMABicmlkETFubDVvTElPMjR4SXozVHpPAR6S0wbdPLDAoz1Pw2jesCsMgDgQNYdWLS06zBo7QwtOiaM8X0lT10OdZjC5CA_aem_solsvTRRY4YVFEagSFpjdQ))
 - Special Lecture at Kyoto Municipal Ritsuryo Junior High School (2023/11)
 - cvpaper.challenge: survey member 
 ([CVPR2022](http://xpaperchallenge.org/cv/survey/cvpr2022_summaries/listall/))
