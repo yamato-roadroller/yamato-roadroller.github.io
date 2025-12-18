@@ -38,6 +38,7 @@
 ### CyberAgentWay
 - [AI研究者が生み出す価値の掛け算　研究成果を最大限に活かす「AI Strategy & Planning」](https://www.cyberagent.co.jp/way/list/detail/id=31208)
 - [偶然を科学する─R&D組織におけるイノベーション活性化を経済学でデザイン─](https://www.cyberagent.co.jp/way/list/detail/id=32140)
+- [技術開発と知財戦略を両輪にした、クラウド設計支援ツールの社会実装](https://www.cyberagent.co.jp/way/list/detail/id=32565)
 
 
 # Project Experience with News Coverage
@@ -162,6 +163,8 @@ Y Okamoto, R Yonetani, M Nakata, Y Miyata US Patent App. 17/636,388
 
 # Social Activities
 
+- Guest speaker at Toshin High School's "Thinking about Your Future Seminar" (26th edition, December 2024) ([link](https://www.toshin.com/recent/detail/RecentToshin.php?id=153))
+- Guest lecture at Kyoto University on management theory for creating business value through research results ([link](https://note.com/cyberagent_ai/n/n1dd790a721b8))
 - Guest speaker at Ritsumeikan University lecture "Organization and Management - Business Development and Rule Making Thinking" ([link](https://cyberagent.ai/blog/research/20267/))
 - Presentation at the 15th IPSJ Corporate Exchange Meeting ~Net Information Media~ ([link](https://www.ipsj.or.jp/event/sanjo-koryu_15_2025.html?fbclid=IwY2xjawMSFzpleHRuA2FlbQIxMABicmlkETFubDVvTElPMjR4SXozVHpPAR6S0wbdPLDAoz1Pw2jesCsMgDgQNYdWLS06zBo7QwtOiaM8X0lT10OdZjC5CA_aem_solsvTRRY4YVFEagSFpjdQ))
 - Special Lecture at Kyoto Municipal Ritsuryo Junior High School (2023/11)
