@@ -86,6 +86,16 @@ AUTHORS: Geewook Kim, Shuhei Yokoo, Sukmin Seo, Atsuki Osanai, Yamato Okamoto an
 
 
 # Industrial Property Rights
+- 特許7809866: 株式会社サイバーエージェント / 藤田光明, 安井翔太, 岡本大和 / 情報処理装置、情報処理方法、プログラム及びモデル生成方法
+- 特許7808728: 株式会社サイバーエージェント / 米谷竜, 岡本大和 / 撮像システム、情報処理方法及びプログラム
+- 特許7799121: 株式会社サイバーエージェント / 白川嵩大, 鳴本拓人, 岡本大和, 毛利真崇 / 画像編集装置、画像編集方法、およびプログラム
+- 特許7793104: 株式会社サイバーエージェント / 山本克彦, 宮崎晃一, 関翔悟, 岡本大和 / 音評価システム、音評価方法およびプログラム
+- 特許7781337: 株式会社サイバーエージェント / テヘーロ デ パブロス アントニオ, 宋思超, 大坂直人, 大谷まゆ, 佐藤真一, 岡本大和 / 画像選択装置、画像選択方法及びコンピュータープログラム
+- 特許7776696: 株式会社サイバーエージェント / 小林拓磨, 毛利真崇, 脇本宏平, 岡本大和, 松本淳太郎 / 画像処理装置、画像処理方法及びプログラム
+- 特許7776691: 株式会社サイバーエージェント / 米谷竜, 岡本大和 / 情報処理装置、情報処理方法及びプログラム
+- 特許7766760: 株式会社サイバーエージェント / 山塚博翔, 守下誠, 服部智, 田中悠己, 石田翔, 高橋慎士, 下平優, 齋裕幸, 立花悠, 二宮功太, 吉田真, 赤井健二郎, 鍋島靖彦, 山森徹, 岡本大和 / 動画像評価システム、動画像評価方法、およびプログラム
+- 特許7743658: 株式会社サイバーエージェント / 早川裕太, 青見樹, 岡本大和 / 情報処理装置、情報処理方法及びプログラム
+- 特許7742969: 株式会社サイバーエージェント / 関翔悟, 石毛真修, 李莉, 岡本大和 / 音声取得装置及び音声取得方法
 - 特許7719982: 株式会社サイバーエージェント / 江口僚, 米谷竜, 岡本大和 / 情報処理装置
 - 特許7713607: 株式会社サイバーエージェント / 米谷竜, 岡本大和 / 情報処理装置、情報処理方法及びプログラム
 - 特許7686171: 株式会社サイバーエージェント / 岩本拓也, 田中康二郎, 岡本大和 / 遠隔サインシステム
@@ -163,6 +173,7 @@ Y Okamoto, R Yonetani, M Nakata, Y Miyata US Patent App. 17/636,388
 
 # Social Activities
 
+- Panelist at Kyoto University Alumni Association of Informatics "ICT Innovation 20th" panel discussion "Career Compass with Generative AI: Connecting Kyoto University Informatics Knowledge to Society" (February 2026) ([link](https://www.alumni.i.kyoto-u.ac.jp/ict-innovation-20th))
 - Guest speaker at Toshin High School's "Thinking about Your Future Seminar" (26th edition, December 2024) ([link](https://www.toshin.com/recent/detail/RecentToshin.php?id=153))
 - Guest lecture at Kyoto University on management theory for creating business value through research results ([link](https://note.com/cyberagent_ai/n/n1dd790a721b8))
 - Guest speaker at Ritsumeikan University lecture "Organization and Management - Business Development and Rule Making Thinking" ([link](https://cyberagent.ai/blog/research/20267/))
